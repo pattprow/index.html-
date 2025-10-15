@@ -1,0 +1,37 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, shrink-to-fit=no, viewport-fit=cover"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://apis.google.com" />
+    <link rel="preconnect" href="https://cdn.tailwindcss.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap"
+      rel="stylesheet"
+    />
+    <link href="https://fonts.googleapis.com/css2?family=Kalam:wght@700&display=swap"
+          rel="stylesheet">
+    <title>Stitch</title>
+    <script type="module" crossorigin src="/assets/index-EY-QV8xJ.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/vendor-react-BQYBPQKQ.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-ui-DPvVQv5C.js">
+    <link rel="modulepreload" crossorigin href="/assets/editor-monaco-oK-Sd19j.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-utils-CFVyTE5A.js">
+    <link rel="modulepreload" crossorigin href="/assets/editor-xyflow-D679rwxT.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-query-CP5cycqV.js">
+    <link rel="modulepreload" crossorigin href="/assets/editor-tiptap-C_cmvzXe.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-marked-DKjyhwJX.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-carousel-Bs-ulAvz.js">
+    <link rel="stylesheet" crossorigin href="/assets/editor-monaco-CpN8rtOO.css">
+    <link rel="stylesheet" crossorigin href="/assets/index-DAPhF9d3.css">
+  </head>
+  <body class="editor_dark">
+    <div id="root"></div>
+  </body>
+</html>
